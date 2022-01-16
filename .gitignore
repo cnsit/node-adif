@@ -23,3 +23,7 @@ Thumbs.db
 node_modules/
 
 coverage/
+sample/wsjtx_log.adi
+sample/lotw.adi
+test/AdiReader.wsjtx.js
+test/backup/AdiReader.lotw.js
